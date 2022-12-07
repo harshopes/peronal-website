@@ -1,0 +1,40 @@
+.top-container{
+    background-color: rgb(190, 239, 235);
+    position: relative;
+    padding: 100px;;
+
+}
+
+body{
+    margin: 0px;
+    text-align: center; 
+    font-family: 'Montez', cursive;  
+}
+
+h1{
+    margin: 0;
+    font-family: 'Montez', cursive;
+}
+
+.middle-container{
+
+  
+}
+
+
+.bottom-container{
+    
+   
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 500px;
+}
+
+.top-cloud{
+    position: absolute;
+   top: 50px;
+   right: 400px;
+
+}
