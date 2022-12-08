@@ -93,3 +93,7 @@ hr {
 .copyright{
     color:#EAF6F6;
 }
+
+.icon:hover{
+    transform: scale(1.5);
+}
